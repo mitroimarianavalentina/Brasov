@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Beautiful Brasov</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_member">Already a member? Login</string>
+    <string name="error_email">Email Not Registered!</string>
+    <string name="logout">Logout</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_trips">Trips</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="geo_dei_frati">geo: 0,0?q= Dei Frati</string>
+    <string name="geo_tratorian">geo: 0,0?q= Trattorian Artisan Food </string>
+    <string name="geo_la_ceaun">geo: 0,0?q= La Ceaun</string>
+    <string name="geo_tratoria_pocol">geo: 0,0?q= Trattoria Pocol</string>
+    <string name="geo_sergiana">geo: 0,0?q= Sergiana, Muresenilor</string>
+    <string name="geo_athanasios">geo: 0,0?q= Athanasios</string>
+    <string name="geo_belvedere">geo: 0,0?q= Belvedere, Stejerisului 11 </string>
+    <string name="geo_gott">geo: 0,0?q= Gott </string>
+    <string name="geo_hopaa">geo: 0,0?q= Hopaa </string>
+    <string name="geo_mamboa">geo: 0,0?q= Mamboa</string>
+    <string name="geo_subtampa">geo: 0,0?q= Sub Tampa </string>
+
+
+    <string name="Brasov">Beautiful Brasov</string>
+    <string name="aboutTown">
+        \t\t\tFringed by the peaks of the Southern Carpathian Mountains and resplendent with gothic,
+        baroque and renaissance architecture, as well as a wealth of historical attractions,
+        Brasov is one of the most visited places in Romania.\n
+        \t\t\tThe entire territory of the county falls in the catchment area of Olt river,
+        which crosses the county from the confluence with the Negru River to the confluence with Ucea river,
+        over a distance of 210 km. The most important tributaries of the river Olt in the county are:
+        Timis, Ghimbasel, Barsa, Homorodu Mare and Sercaia.\n
+        \t\t\tBrasov county owns 32 protected areas and an impressive number of nature monuments.The county is home
+        to the National Parks Piatra Craului (14,795 ha) and Bucegi (32,663 ha).
+        The reserve in the Bucegi Mountains includes: Abruptul Bucsoiu, Malaesti, Gaura, where various
+        fauna species are protected, such as chamois, lynx, mountain cock, as well as rare flora species.
+        Piatra Craiului Mountains are completely protected, hosting about 40 percent of the endemic species in Romania,
+        a representative example being the carnation of Piatra Craului, a unique species in the world. \n
+        \t\t\tThe list of natural monuments includes: several fossiliferous places, The Basalt Columns at Racos, the
+        Dopca Gorges, the Basalt Columns at Piatra Cioplita, the Basalt Micro-canyon at Hoghiz, the Basalt Rock at Rupea,
+        the caves Barlogul Ursului and Valea Cetatii. The list of natural reserves includes: Harman Swamp, Tampa Mountain,
+        Bogatii Forest, the Narcissus Glade at Dumbrava Vadului, Postavar Mountain, Dealul Cetatii - Lempes, Cotul Turzunului,
+        Stejerisul Mare, the Forest and eutrophic swamps at Prejmer, the Geological Complex Racosul de Jos, Holbav, Comana Cave,
+        Ciocas Hill - Vitelului Hill.\n
+        \t\t\tForests account for over 35 percent of the entire area. The main natural resources of the county are:
+        coal deposits - lignite (Vulcan), marble (Sinca Veche), limestone (Brasov, Brasov, Zarnesti and Racos),
+        basalt and andesite (Racos and Bogatii Forest), sandstone (Teliu), thermal waters (Brasov) and iodo-sodium waters
+        (Persani, Rotbav and Homorod), mineral waters (Zizin.
+    </string>
+
+    <string name="restaurant_image_description">restaurant image</string>
+    <string name="restaurant_location_icon">restaurant location icon</string>
+    <string name="restaurant_phone_icon">restaurant phone icon</string>
+
+    <string name="trip_image_description">trip image</string>
+    <string name="trip_location_icon">trip location icon</string>
+
+    //info about what to do OUTSIDE in Brasov
+    <string name="aventura_parc">Aventura Parc</string>
+    <string name="bran">Bran Castle</string>
+    <string name="cantacuzino">Cantacuzino Castle</string>
+    <string name="dino">Dino Park</string>
+    <string name="peles">Peles Castle</string>
+    <string name="rasnov">Rasnov Citadel</string>
+    <string name="zoo">The Zoo</string>
+    <string name="bears">Bear Sanctuary</string>
+
+    <string name="geo_aventura_parc">geo: 0,0?q= Aventura Parc</string>
+    <string name="geo_castelul_bran">geo: 0,0?q= Castelul Bran</string>
+    <string name="geo_castelul_cantacuzino">geo: 0,0?q= Castelul Cantacuzino</string>
+    <string name="geo_dino_parc">geo: 0,0?q= Dino Park</string>
+    <string name="geo_castelul_peles">geo: 0,0?q= Castelul Peles</string>
+    <string name="geo_cetatea_rasnov">geo: 0,0?q= Cetatea Rasnov</string>
+    <string name="geo_gradina_zoo">geo: 0,0?q= Gradina Zoologica</string>
+    <string name="geo_sanctuarul_ursilor">geo: 0,0?q= Rezervatia de Ursi Zarnesti</string>
+
+</resources>
