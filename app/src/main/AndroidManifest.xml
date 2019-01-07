@@ -7,7 +7,9 @@ package="com.marianavalentinamitroi.brasov">
     android:icon="@mipmap/ic_launcher"
     android:label="@string/app_name"
     android:supportsRtl="true"
-    android:theme="@style/AppTheme">
+    android:theme="@style/AppTheme"
+    android:hardwareAccelerated="false"
+    android:largeHeap="true">
     <activity android:name=".activities.LoginActivity">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
@@ -22,13 +24,21 @@ package="com.marianavalentinamitroi.brasov">
 
     <activity
         android:name=".activities.RestaurantActivity"
-        android:label="@string/category_restaurants"
         android:parentActivityName=".activities.PresentationActivity"/>
 
     <activity
         android:name=".activities.TripsActivity"
         android:label="@string/category_trips"
         android:parentActivityName=".activities.PresentationActivity"/>
+
+    <activity
+        android:name=".activities.ToVisitActivity"
+        android:label="@string/category_to_visit"
+        android:parentActivityName=".activities.PresentationActivity"/>
+
+    <activity
+        android:name=".activities.DescriptionsActivity"
+        android:parentActivityName=".activities.ToVisitActivity"/>
 
     <!-- Parent activity meta-data to support 4.0 and lower -->
     <meta-data

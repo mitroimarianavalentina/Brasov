@@ -21,6 +21,8 @@
     <string name="logout">Logout</string>
     <string name="category_restaurants">Restaurants</string>
     <string name="category_trips">Trips</string>
+    <string name="category_to_visit">Places To Visit</string>
+
 
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
@@ -35,7 +37,7 @@
     <string name="geo_gott">geo: 0,0?q= Gott </string>
     <string name="geo_hopaa">geo: 0,0?q= Hopaa </string>
     <string name="geo_mamboa">geo: 0,0?q= Mamboa</string>
-    <string name="geo_subtampa">geo: 0,0?q= Sub Tampa </string>
+    <string name="geo_sub_tampa">geo: 0,0?q= Sub Tampa </string>
 
 
     <string name="Brasov">Beautiful Brasov</string>
@@ -90,5 +92,116 @@
     <string name="geo_cetatea_rasnov">geo: 0,0?q= Cetatea Rasnov</string>
     <string name="geo_gradina_zoo">geo: 0,0?q= Gradina Zoologica</string>
     <string name="geo_sanctuarul_ursilor">geo: 0,0?q= Rezervatia de Ursi Zarnesti</string>
+
+    //info about the sights to visit in Brasov
+    <string name="biserica_neagra"> Black Church </string>
+    <string name="geo_biserica_neagra">geo: 0,0?q= Biserica Neagra </string>
+    <string name="biserica_neagra_d">
+        \t\t\tThe Black Church is one of the most impressive religious edifices in Romania.
+        Its construction began in the 14th century as a Roman Catholic structure and it was known as the Church of Saint Mary.
+        It was built on the place of another older church. The first priest of this new church was a man named Thomas Sander.
+        He died in 1410 and his grave can be found inside the church, in the choir area.\n
+        \t\t\tCompleted by the end of the 15th century, the church belongs to the last stages of Gothic architecture.
+        The result was a three-nave basilica, all the same height, as was preferred during the 15th and 16th
+        centuries in the German lands, where most of the architects and masons originated.
+        The Catholic services were replaced with Lutheran ones during the Protestant Reformation.\n
+    </string>
+
+
+    <string name="council_square"> Council Square </string>
+    <string name="geo_piata_sfatului">geo: 0,0?q= Piata Sfatului </string>
+    <string name="council_square_d">
+        \t\t\tThe Council Square is the central starting point for most tourist attractions in Brasov such as the Black Church -
+        the most famous in the city, built between 1377 and 1477, Republic Street and Muresenilor Street, Sforii Street,
+        Ceara Gate and Ecaterina Gate, Altea Dupa walls with White Tower, Black Tower and Graft Bastion, Tampa Area,
+        Unirii Square where St. Nicholas Church and Museum Complex \'Prima Prima Scoala Romana\' are located.
+    </string>
+
+    <string name="first_school"> First Romanian School </string>
+    <string name="geo_prima_scoala">geo: 0,0?q= Prima Scoala Romaneasca </string>
+    <string name="first_school_d">
+       \t\t\tThis has been a centre for Romanian teaching and book printing for centuries.
+        The small museum houses countless Romanian ‘firsts’: the oldest Romanian bible (printed on goats’ skin),
+        oldest letter written in Romanian using the Latin alphabet (previously, Romanian was written with Cyrillic letters),
+        a page from an 11th century schoolbook and much more.
+        The printing press itself printed only 39 books, taking 20 workers and eight translators months to finish just one book.
+        No wonder a book was worth 12 oxen in those days. Also here is the tiny Museum of the Junii (Muzeul Junilor),
+        showing the seven different traditional costumes the Schei men wore; Schei women had only one.
+    </string>
+
+    <string name="st_nicholas"> Saint Nicholas Church </string>
+    <string name="geo_biserica_sf_nicolae">geo: 0,0?q= Biserica Sfantul Nicolae </string>
+    <string name="st_nicholas_d">
+        \t\t\tThe building of the church in the Bolgárszeg suburb started in 1495 with the support of Vlad Călugăru,
+        ruler of Muntenia. It was built on the place of an older church from 1292.
+        The Orthodox Church and the adjecent school were the main intellectual and cultural support of the Romanians.
+        It had an influence an all teritories inhabited by Romanians. Especially the work of deacon Coresi,
+        who printed the first ecclesiastical books in Romanian.\n
+        \t\t\tThe monarchs of the time also played a major role in adonrning and expanding the church,
+        by offering money, gold and silver objects, ikons, and ceremonial objects.
+        Even the Russian empress, Elisabeta Petrovna, donated to the church.
+        The XVIII century restoration works highly affected the original Gothic look of the church giving a
+        Baroque style to the building. The frescos made then are still preserved today.
+        The church cemetery is the resting place of such well-known people as Dicolae Titulescu,
+        the famous diplomat, dr. Aurel Popovici, the great politician of his time, Vasile Saftu, the poet, and many others.
+    </string>
+
+    <string name="turnul_alb">White Tower</string>
+    <string name="geo_turnul_alb">geo: 0,0?q= Turnul Alb </string>
+    <string name="turnul_alb_d">
+        \t\t\tThe White Tower (Turnul Alb) is located directly above the Bastionul Graft,
+        and you can climb up to it via some very steep steps – do not try it unless you are
+        feeling extremely fit and agile. There are more steps when you actually get to the tower,
+        but the views from the top are fantastic.
+    </string>
+
+    <string name="dupa_ziduri">"Behind the Walls" Alley</string>
+    <string name="geo_dupa_ziduri">geo: 0,0?q= Strada Dupa Ziduri </string>
+    <string name="dupa_ziduri_d">
+        \t\t\t“După Ziduri” Alley, meaning “behind the walls”, is a narrow sidewalk between the northern
+        defensive walls and a forest covered slope. At one end we find the Blacksmiths’ Bastion,
+        currently the State Archives. Above the alley a path takes us up to the Black Tower (“Turnul Negru).
+        Dating back from the 15th century, the tower got its name after being struck by lightning and turning black.
+        To me, it looked rather gray… Behind it, we saw a couple of holes, clearly dug by human hands into the rock,
+        probably some old tunnels that used to connect the towers to the city. If only we would have brought our
+        flashlights along… Continuing along the path we reached the White Tower (“Turnul Alb”),
+        which is a little bigger and got its name from the white paint that always covered it.
+    </string>
+
+    <string name="casa_muresenilor">Muresenilor House</string>
+    <string name="geo_casa_muresenilor">geo: 0,0?q= Casa Muresenilor </string>
+    <string name="casa_muresenilor_d">
+        \t\t\tOn Piaţa Sfatului western side stands the intimate Mureşenilor House Memorial Museum,
+        which honours the family of Jacob Mureşan, the first editor of the Romanian-language Gazeta de
+        Transilvania, a political newspaper published in the 19th century.
+    </string>
+
+    <string name="brasov_citadel">Brasov Citadel</string>
+    <string name="geo_cetatea_brasov">geo: 0,0?q= Cetatea Brasov </string>
+    <string name="brasov_citadel_d" >
+        \t\t\tThe place is one of the best points if you want to have an entire view over the city.
+        From the top of the hill, two totally different panoramas can be seen:
+        On one hand you can explore the "new city" or rather say the communist one in a bird s eye view…
+        (Ah I forgot to tell, for some years during communism, the city of Brasov was named Stalin city. )\n
+        and on the other side, you can admire the old city with the Black Church
+        in the middle and the name of the city Brasov is written in a mountain face the same like Hollywood style.
+    </string>
+
+    <string name="weavers_bastion"> Weavers Bastion</string>
+    <string name="geo_bastionul_tesatorilor">geo: 0,0?q= Bastionul Tesatorilor </string>
+    <string name="weavers_bastion_d">
+        \t\t\tThe bastion was built in two phases between 1421-1436 and 1570-1573.
+        Part of it collapsed in 1701, thus it was reconstructed in 1750 and restored in 1910.
+        The hexagon shaped building occupies 1.616 sq.metres and its thick (1.5-3m ) battered walls also have
+        loopholes for pouring tar. On the ground floor there are crevices for cannons.
+        On the interior side of the walls there are 3-4 storey hallways. In 1800 two other constructions
+        were built for the guilt, while in 1807, when the bastion lost its protective function a watch house
+        was built to the entrance. \n
+        \t\t\tThe year 1908 brings along changes and the bastion becomes the scene of more and more cultural events.
+        Due to its excellent acoustic even opera nights were held here. Since 1950 it houses a museum.
+        The permanent exhibition entitled \'Brasov castle and the Bársza country fortresses\' displays
+        weapons from the middle ages, products made by the guilds, the scale model of the city in the middle ages,
+        made by Friedrich Herman in 1896, as well as the scale model of Schei.
+    </string>
 
 </resources>

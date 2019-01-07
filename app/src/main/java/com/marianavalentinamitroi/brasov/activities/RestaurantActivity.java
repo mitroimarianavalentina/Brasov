@@ -52,7 +52,7 @@ public class RestaurantActivity extends AppCompatActivity {
                 getString(R.string.geo_mamboa),"+040766584689", "description"));
 
         restaurants.add(new Restaurant("Sub Tampa", R.drawable.sub_tampa,
-                getString(R.string.geo_subtampa),"+040766584689", "description"));
+                getString(R.string.geo_sub_tampa),"+040766584689", "description"));
 
 
         RestaurantAdapter restaurantAdapter =  new RestaurantAdapter(this, restaurants);

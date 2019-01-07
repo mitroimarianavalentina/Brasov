@@ -103,6 +103,13 @@ public class PresentationActivity extends AppCompatActivity
                 // Start the new activity
                 startActivity(tripsIntent);
                 return  true;
+            case R.id.toVisit:
+                // Create a new intent to open the {@link TripsActivity}
+                Intent visitIntent = new Intent(this, ToVisitActivity.class);
+
+                // Start the new activity
+                startActivity(visitIntent);
+                return  true;
             case R.id.log_out:
                 PreferenceUtils.savePassword(null, this);
                 PreferenceUtils.saveEmail(null, this);

@@ -52,7 +52,6 @@ public class RestaurantAdapter extends ArrayAdapter<Restaurant> {
         ImageView telephone = listItemView.findViewById(R.id.phone_icon);
         /** set a click listener ro the phone icon, so, when clicked, we can dial the right number */
         telephone.setOnClickListener(new View.OnClickListener() {
-            @NonNull
             @Override
             public void onClick(View view) {
                 Intent callIntent = new Intent(Intent.ACTION_DIAL);
@@ -66,7 +65,6 @@ public class RestaurantAdapter extends ArrayAdapter<Restaurant> {
         ImageView location = listItemView.findViewById(R.id.location_icon);
         /** set a click listener ro the location icon, so, when clicked, we can go to google maps */
         location.setOnClickListener(new View.OnClickListener() {
-            @NonNull
             @Override
             public void onClick(View view) {
                 Uri gmmIntentUri = Uri.parse(currentRestaurant.getLocation());

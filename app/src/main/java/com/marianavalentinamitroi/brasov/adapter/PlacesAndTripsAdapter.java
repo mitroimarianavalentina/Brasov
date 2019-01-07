@@ -13,13 +13,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.marianavalentinamitroi.brasov.R;
-import com.marianavalentinamitroi.brasov.model.Trips;
+import com.marianavalentinamitroi.brasov.model.PlacesAndTrips;
 
 import java.util.ArrayList;
 
-public class TripsAdapter extends ArrayAdapter<Trips> {
+public class PlacesAndTripsAdapter extends ArrayAdapter<PlacesAndTrips> {
 
-    public TripsAdapter(@NonNull Context context, @NonNull ArrayList<Trips> objects) {
+    public PlacesAndTripsAdapter(@NonNull Context context, @NonNull ArrayList<PlacesAndTrips> objects) {
         super(context, 0, objects);
     }
 
@@ -35,7 +35,7 @@ public class TripsAdapter extends ArrayAdapter<Trips> {
         }
 
         // find the current word
-        final Trips currentTrip = getItem(position);
+        final PlacesAndTrips currentTrip = getItem(position);
 
         TextView name  =  listItemView.findViewById(R.id.trip_name);
         ImageView photo  =  listItemView.findViewById(R.id.trip_image);

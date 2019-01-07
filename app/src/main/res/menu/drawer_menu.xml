@@ -6,9 +6,9 @@
 
     <group android:checkableBehavior="single">
 
-        <item android:id="@+id/restaurants"
+        <item android:id="@+id/toVisit"
             android:icon="@drawable/ic_restaurant"
-            android:title="Restaurants">
+            android:title="Places to Visit">
         </item>
 
         <item android:id="@+id/trips"
@@ -16,14 +16,9 @@
             android:title="Trips">
         </item>
 
-        <item android:id="@+id/outdoor"
+        <item android:id="@+id/restaurants"
             android:icon="@drawable/ic_restaurant"
-            android:title="Outdoor">
-        </item>
-
-        <item android:id="@+id/hotels"
-            android:icon="@drawable/ic_restaurant"
-            android:title="Hotels">
+            android:title="Restaurants">
         </item>
 
         <item android:id="@+id/transportation"
